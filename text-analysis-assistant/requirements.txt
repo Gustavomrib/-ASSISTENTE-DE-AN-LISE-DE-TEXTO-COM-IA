@@ -1,0 +1,39 @@
+# requirements.txt
+# Dependências do projeto Text Analysis Assistant
+
+# ⚠️ IMPORTANTE: Este projeto foi desenvolvido para NÃO ter dependências externas.
+# Funciona com Python puro (stdlib).
+
+# Dependências OPCIONAIS para desenvolvimento:
+
+# Testes
+pytest==7.4.0          # Framework de testes
+pytest-cov==4.1.0      # Cobertura de testes
+
+# Qualidade de código
+black==23.9.1          # Formatador de código
+flake8==6.1.0          # Linter
+pylint==2.17.5         # Análise estática
+mypy==1.5.1            # Type checking
+
+# Documentação
+sphinx==7.2.6          # Gerador de documentação
+sphinx-rtd-theme==1.3.0  # Tema para Sphinx
+
+# Desenvolvimento
+ipython==8.15.0        # Shell interativo melhorado
+jupyter==1.0.0         # Notebooks
+
+# FUTURO - Para melhorias do projeto:
+# Para integração com OpenAI: openai==0.27.0
+# Para integração com Google Gemini: google-generativeai==0.3.0
+# Para análise avançada: transformers==4.30.0, torch==2.0.0
+# Para interface web: fastapi==0.103.0, uvicorn==0.23.0
+# Para ML: scikit-learn==1.3.0, nltk==3.8.1, spacy==3.6.0
+# Para banco de dados: sqlalchemy==2.0.20, sqlite3 (já incluído)
+
+# Para instalação de dependências de desenvolvimento:
+# pip install -r requirements.txt
+#
+# Ou apenas para versão mínima (nenhuma):
+# python main.py  # Funciona sem pip install!

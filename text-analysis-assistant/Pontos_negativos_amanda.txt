@@ -1,0 +1,39 @@
+
+======================================================================
+📊 RESULTADO DA ANÁLISE DE TEXTO
+======================================================================
+
+📝 SUMÁRIO:
+----------------------------------------------------------------------
+entar ganhar um debate contra ela é como lutar contra um moinho de vento pior de tudo é que, além de sábia, ela é absurdamente generosa com o tempo ssa empatia exagerada da manda me tira do sério, pois ela nunca diz não o que dizer daquele otimismo irritante que ela carrega logo cedo, s seis nquanto o mundo desaba, ela encontra uma solução prática e um café quente lém disso, o brilho que ela emana quando entra em uma sala é ofuscante o fundo, meu maior problema com ela é que o mundo precisa de mais mandas
+
+⭐ PONTOS-CHAVE:
+----------------------------------------------------------------------
+• começar por essa mania dela de estar sempre certa em todas as discussões
+• difícil conviver com a manda sem sentir uma ponta de irritação constante
+• ssa empatia exagerada da manda me tira do sério, pois ela nunca diz não
+• ão se pode falar mal de ninguém perto dela sem levar um sermão sobre ética
+• la é tão íntegra que faz a gente se sentir um vilão de desenho animado
+
+💡 SUGESTÕES DE AÇÃO:
+----------------------------------------------------------------------
+1. 🔧 Investigar e documentar o tipo de problema
+2. 📋 Criar plano de ação para resolução
+3. ⏰ Definir cronograma de implementação
+4. 👤 Designar responsáveis e recursos
+
+📈 ANÁLISE AVANÇADA:
+----------------------------------------------------------------------
+Tom do texto: NEGATIVO
+Complexidade: 55.4%
+Palavras-chave mais frequentes: ela, manda, tão
+
+📊 ESTATÍSTICAS:
+----------------------------------------------------------------------
+Total de caracteres: 1486
+Total de palavras: 267
+Palavras únicas: 177
+Total de frases: 20
+Média de palavras por frase: 13.35
+
+======================================================================
