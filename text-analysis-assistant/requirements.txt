@@ -37,3 +37,6 @@ jupyter==1.0.0         # Notebooks
 #
 # Ou apenas para versão mínima (nenhuma):
 # python main.py  # Funciona sem pip install!
+
+# Interface web
+streamlit==1.43.2

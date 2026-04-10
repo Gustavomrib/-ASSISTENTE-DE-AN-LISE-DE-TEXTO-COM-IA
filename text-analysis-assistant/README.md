@@ -291,3 +291,12 @@ Desenvolvido como projeto de portfólio para demonstrar competências em:
 **Versão**: 1.0.0  
 **Última atualização**: 2024  
 **Status**: ✅ Pronto para apresentação
+
+## ?? Uso Web com Streamlit
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+A interface web reaproveita a mesma logica de analise do modulo `src/`.
